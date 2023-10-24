@@ -1,2 +1,2 @@
 # Python.PDF
-Transforme vários arquivos pdf em um único arquivo pdf com esse código em Python. 
+Combine vários arquivos PDF em um único arquivo PDF usando Python.
